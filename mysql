@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# python3 main.py 2>/dev/null
+python3 main.py

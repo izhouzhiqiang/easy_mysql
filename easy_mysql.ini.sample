@@ -1,0 +1,10 @@
+[database]
+host = localhost
+port = 3306
+username = root
+password = mypassword
+database = test
+
+[settings]
+debug = False
+cmd_prefix = 'mysql >>'
